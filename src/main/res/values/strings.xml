@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Browser_1.0</string>
+    <string name="btnFb">FACEBOOK</string>
+    <string name="btnGoogle">GOOGLE</string>
+    <string name="btnJumia">JUMIA</string>
+    <string name="btnDailyNation">NEWS</string>
+    <string name="btnSaf">SAFARICOM</string>
+    <string name="btnYoutube">YOUTUBE</string>
+    <string name="btnSearch">SEARCH</string>
+    <string name="txtUrlHint">ENTER URL TO VISIT</string>
+    <string name="txtLabel">BOOKMARKS</string>
+
+</resources>
